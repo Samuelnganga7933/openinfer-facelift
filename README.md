@@ -1,6 +1,4 @@
-Got it, loud and clear. No suggestions, no extra commentary, just the final README ready to copy-paste. Here it is:
 
-# OpenInfer Facelift
 
 OpenInfer Facelift is a web-based interface built on top of OpenInfer. It provides a clean and intuitive interface for running inferences, visualizing results, and managing workflows efficiently. The project is designed for flexibility, clarity, and ease of use.
 
